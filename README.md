@@ -4,8 +4,8 @@ I like to support the Canucks, Trail Blazers, Mariners & Seahawks
 
 I work with: 
 - TypeScript
-- React.js (Sass w/ a serving of BEM for styles)
-- Express.js
+- React (Sass w/ a serving of BEM for styles)
+- Express
 - MongoDB & MySQL
 
 Currently learning: 
