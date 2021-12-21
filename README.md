@@ -1,6 +1,12 @@
 Hello, I'm Nicholas 👋 I'm a full stack web developer from Vancouver, B.C. 🚵‍♂️ 
 
-Go Canucks! 🏒
+I like to support the Canucks, Trail Blazers, Mariners & Seahawks
+
+I work with: 
+- TypeScript
+- React.js (Sass w/ a serving of BEM for styles)
+- Express.js
+- MongoDB & MySQL
 
 Currently learning: 
 - Go 
@@ -8,5 +14,7 @@ Currently learning:
 - GraphQL
 
 Want to learn:
-- Svelte
-- CSS in JS (Styled Components or Emotion... hmm...)
+- Svelte ...and SvelteKit 🤯
+- PostgreSQL 🤠
+- CSS in JS (Styled Components or Emotion... hmm... 🤔)
+- Strapi but maybe Wordpress? 🤷‍♂️
