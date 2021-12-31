@@ -12,8 +12,7 @@ I work with:
 - MongoDB & MySQL
 
 Currently learning: 
-- Go 
-- GraphQL
+- Test Driven Development (using testing-library)
 
 Want to learn:
 - Svelte ...and SvelteKit 🤯
