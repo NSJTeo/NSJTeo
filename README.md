@@ -13,9 +13,3 @@ I work with:
 
 Currently learning: 
 - Test Driven Development (using testing-library)
-
-Want to learn:
-- Svelte ...and SvelteKit 🤯
-- PostgreSQL 🤠
-- CSS in JS (styled-components or Emotion... hmm... 🤔)
-- Strapi and maybe Wordpress? 🤷‍♂️
