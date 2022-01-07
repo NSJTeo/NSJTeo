@@ -9,6 +9,7 @@ I work with:
 - CSS (Sass & BEM)
 - NodeJS
 - Express
+- REST APIs & GraphQL
 - MongoDB & MySQL
 
 Currently learning: 
