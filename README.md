@@ -15,3 +15,4 @@ I work with:
 Currently learning: 
 - Test Driven Development (using testing-library)
 - PHP
+- Algorithms & Data Structures 
