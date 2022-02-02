@@ -6,13 +6,8 @@ I work with:
 - TypeScript/JavaScript
 - Python
 - React (Redux, Next.js)
-- CSS (Sass & BEM)
+- CSS (Sass & BEM, styled-components)
 - NodeJS
 - Express
 - REST APIs & GraphQL
-- MongoDB & MySQL
-
-Currently learning: 
-- Test Driven Development (using testing-library)
-- PHP
-- Algorithms & Data Structures 
+- MongoDB, postgreSQL & MySQL
