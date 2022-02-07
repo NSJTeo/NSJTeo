@@ -4,9 +4,8 @@ I like to support the Canucks, Trail Blazers, Mariners & Seahawks
 
 I work with: 
 - TypeScript/JavaScript
-- Python
 - React (Redux, Next.js)
-- CSS (Sass & BEM, styled-components)
+- CSS (Sass & styled-components)
 - NodeJS
 - Express
 - REST APIs & GraphQL
