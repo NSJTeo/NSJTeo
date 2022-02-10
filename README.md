@@ -10,3 +10,5 @@ I work with:
 - Express
 - REST APIs & GraphQL
 - MongoDB, postgreSQL & MySQL
+
+You can visit my portfolio [here](https://nsjteo.github.io/portfolio/)
