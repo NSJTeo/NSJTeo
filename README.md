@@ -11,4 +11,4 @@ I work with:
 - REST APIs & GraphQL
 - MongoDB, postgreSQL & MySQL
 
-You can visit my portfolio [here](https://nsjteo.github.io/portfolio/)
+You can visit my portfolio [here](https://nsjteo.github.io/nicholas-macdonald/)
